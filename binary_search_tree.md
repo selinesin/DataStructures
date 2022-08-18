@@ -1,4 +1,4 @@
-#Proje 2: Binary Search Tree Projesi
+# Proje 2: Binary Search Tree Projesi
 
 **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.**
 
@@ -106,3 +106,8 @@ And finally 2 is smaller than 7 and 5 but greater than 1. Also smaller than 3.
     0    3
         /  \
         2   4
+        
+        
+        
+        
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
