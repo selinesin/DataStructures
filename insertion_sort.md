@@ -3,6 +3,7 @@
 <br>
 **[22,27,16,2,18,6] dizisinin Insertion Sort'a göre sıralanması**
  
+<br>
  
  |1.Adım|16|22|27|2|18|6|  
  |------|- |- |- |-|- |-|
