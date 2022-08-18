@@ -18,7 +18,7 @@
  
 
 
-<br></br>
+<br>
 
 
 **Big-O gösterimi**
@@ -27,7 +27,7 @@ n(n+1)/2 O(n^2)
 
 
 
-
+<br>
 
 
 **[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:**
@@ -45,6 +45,8 @@ n(n+1)/2 O(n^2)
  |4.Adım|2|3|4|5|7|8|9|15|6|      
  |------|-|-|-|-|-|-|-|- |-|
 
+
+<br>
 
 https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 
